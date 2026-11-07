@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "stripes", "runtimeExecutable": "node", "runtimeArgs": ["tools/serve.mjs", "4621"], "port": 4621 }
+  ]
+}
